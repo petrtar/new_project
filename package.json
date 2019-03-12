@@ -1,0 +1,30 @@
+{
+  "name": "taskstime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://petrTar@bitbucket.org/iMYD/taskstime.git"
+  },
+  "author": "Icon",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/iMYD/taskstime#readme",
+  "dependencies": {
+    "vue": "^2.6.8"
+  },
+  "devDependencies": {
+    "css-loader": "2.1.1",
+    "file-loader": "3.0.1",
+    "vue-loader": "15.7.0",
+    "vue-style-loader": "4.1.2",
+    "vue-template-compiler": "2.6.8",
+    "webpack": "4.29.6",
+    "webpack-cli": "3.2.3",
+    "webpack-dev-server": "3.2.1"
+  }
+}
